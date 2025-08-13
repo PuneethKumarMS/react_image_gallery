@@ -37,14 +37,26 @@ react-image-gallery/
 ```
 ## 🚀 Getting Started
 
-## 1. Clone the Repository:
-- git clone https://github.com/your-username/react-props-demo.git
-- cd react-image-gallery
+# Install Node.js (if not already installed)
+- **node -v**
+- **npm -v**
 
-## 2. Install Dependencies:
-- npm install
+# Create the project using Vite
+- **npm create vite@latest react-image-gallery -- --template react**
 
-## 3. Run the Development Server:
-- npm run dev
+# Select framework: - React
+# Select variant: - JavaScript
 
-- Visit http://localhost:5173 to view the app in your browser.
+# Navigate into the project folder
+- **cd react-image-gallery**
+
+# Install dependencies
+- **npm install**
+
+# Start the development server
+- **npm run dev**
+
+# (OR) 
+
+# Clone the repository
+- **git clone https://github.com/your-username/react-image-gallery.git**
