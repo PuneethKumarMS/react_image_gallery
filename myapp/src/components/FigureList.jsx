@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 import BasicFigures from "./BasicFigures";
+import "../FigureList.css"; 
 
 
 function FigureList () {
