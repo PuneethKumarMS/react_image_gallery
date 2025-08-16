@@ -1,4 +1,5 @@
 import React from "react";
+import "../BasicFigure.css";
 
 function BasicFigures({imageUrl, caption, onDelete}) {
 
