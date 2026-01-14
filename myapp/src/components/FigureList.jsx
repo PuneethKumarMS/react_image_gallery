@@ -6,7 +6,7 @@ import "../FigureList.css";
 function FigureList () {
     
     const[figures, setFigures] = useState([
-
+        //image URLs
         {id: 1, imageUrl: "https://cricketaddictor.com/wp-content/uploads/2023/11/Virat-Kohli-shares-details-about-his-first-tattoo.webp",
             caption: "image 1"},
         {id: 2, imageUrl: "https://cricketaddictor.com/wp-content/uploads/2023/11/Virat-Kohli-shares-details-about-his-first-tattoo.webp",
