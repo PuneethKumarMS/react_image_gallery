@@ -21,7 +21,8 @@ transition: border-color 0.3s;
  
 button{ 
 background-color: blue; 
-} 
+}
+
 body{ 
 display: flex; 
 justify-content: center; 
