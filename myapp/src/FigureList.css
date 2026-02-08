@@ -4,7 +4,6 @@ justify-content: center;
 align-items: center; 
 } 
  
- 
 .input-container input { 
 width: 100%; 
 padding: 10px; 
@@ -12,7 +11,6 @@ font-size: 16px;
 border: 2px solid #ccc; 
 border-radius: 5px; 
 } 
- 
  
 button{ 
 background-color: blue; 
@@ -25,11 +23,9 @@ transition: transform 0.3s;
 text-align: center; 
 } 
  
- 
 .figure-container:hover { 
 transform: scale(1.05); 
 } 
- 
  
 .figure-image { 
 width: 150px; 
@@ -37,11 +33,9 @@ height: 150px;
 object-fit: cover; 
 } 
  
- 
 .figure-caption { 
 font-weight: bold; 
 } 
- 
  
 .delete-btn { 
 background-color: red; 
@@ -51,7 +45,6 @@ padding: 5px;
 cursor: pointer; 
 margin-top: 5px; 
 } 
- 
  
 .delete-btn:hover { 
 background-color: darkred; 
